@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(0,0,0,0.4);
+}
+
+.error {
+    text-align: center;
+    width: 200px;
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%; /* Could be more or less, depending on screen size */
+}

@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1606579335925-ea67bcbd09c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    padding: 2rem;
+    display: flex;
+    flex-flow: row nowrap;
+    background-color: #ebebeb;
+    width:100vw;
+    gap: 3rem;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.IMDB {
+    color: red;
+}
+
+.back {
+    font-size: 16px;
+    padding: 2rem;
+    text-align: center;
+}
